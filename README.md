@@ -1,2 +1,2 @@
 # redirect
-I changed my GitHub username. My new username is @sebastians.
+I changed my GitHub username. My new username is [@sebastians](https://github.com/sebastians).
